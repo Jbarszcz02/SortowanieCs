@@ -1,0 +1,15 @@
+C:\Users\USER\Documents\studia\programowanie\sortowanie\3. sortowanie bąbelkowe\3. sortowanie bąbelkowe\bin\Debug\net6.0\3. sortowanie bąbelkowe.exe
+C:\Users\USER\Documents\studia\programowanie\sortowanie\3. sortowanie bąbelkowe\3. sortowanie bąbelkowe\bin\Debug\net6.0\3. sortowanie bąbelkowe.deps.json
+C:\Users\USER\Documents\studia\programowanie\sortowanie\3. sortowanie bąbelkowe\3. sortowanie bąbelkowe\bin\Debug\net6.0\3. sortowanie bąbelkowe.runtimeconfig.json
+C:\Users\USER\Documents\studia\programowanie\sortowanie\3. sortowanie bąbelkowe\3. sortowanie bąbelkowe\bin\Debug\net6.0\3. sortowanie bąbelkowe.dll
+C:\Users\USER\Documents\studia\programowanie\sortowanie\3. sortowanie bąbelkowe\3. sortowanie bąbelkowe\bin\Debug\net6.0\3. sortowanie bąbelkowe.pdb
+C:\Users\USER\Documents\studia\programowanie\sortowanie\3. sortowanie bąbelkowe\3. sortowanie bąbelkowe\obj\Debug\net6.0\3. sortowanie bąbelkowe.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\studia\programowanie\sortowanie\3. sortowanie bąbelkowe\3. sortowanie bąbelkowe\obj\Debug\net6.0\3. sortowanie bąbelkowe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\studia\programowanie\sortowanie\3. sortowanie bąbelkowe\3. sortowanie bąbelkowe\obj\Debug\net6.0\3. sortowanie bąbelkowe.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\studia\programowanie\sortowanie\3. sortowanie bąbelkowe\3. sortowanie bąbelkowe\obj\Debug\net6.0\3. sortowanie bąbelkowe.AssemblyInfo.cs
+C:\Users\USER\Documents\studia\programowanie\sortowanie\3. sortowanie bąbelkowe\3. sortowanie bąbelkowe\obj\Debug\net6.0\3. sortowanie bąbelkowe.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\studia\programowanie\sortowanie\3. sortowanie bąbelkowe\3. sortowanie bąbelkowe\obj\Debug\net6.0\3. sortowanie bąbelkowe.dll
+C:\Users\USER\Documents\studia\programowanie\sortowanie\3. sortowanie bąbelkowe\3. sortowanie bąbelkowe\obj\Debug\net6.0\refint\3. sortowanie bąbelkowe.dll
+C:\Users\USER\Documents\studia\programowanie\sortowanie\3. sortowanie bąbelkowe\3. sortowanie bąbelkowe\obj\Debug\net6.0\3. sortowanie bąbelkowe.pdb
+C:\Users\USER\Documents\studia\programowanie\sortowanie\3. sortowanie bąbelkowe\3. sortowanie bąbelkowe\obj\Debug\net6.0\3. sortowanie bąbelkowe.genruntimeconfig.cache
+C:\Users\USER\Documents\studia\programowanie\sortowanie\3. sortowanie bąbelkowe\3. sortowanie bąbelkowe\obj\Debug\net6.0\ref\3. sortowanie bąbelkowe.dll

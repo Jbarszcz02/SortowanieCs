@@ -1,0 +1,15 @@
+C:\Users\USER\Documents\studia\programowanie\sortowanie\4. Sortowanie przez wstawianie\4. Sortowanie przez wstawianie\bin\Debug\net6.0\4. Sortowanie przez wstawianie.exe
+C:\Users\USER\Documents\studia\programowanie\sortowanie\4. Sortowanie przez wstawianie\4. Sortowanie przez wstawianie\bin\Debug\net6.0\4. Sortowanie przez wstawianie.deps.json
+C:\Users\USER\Documents\studia\programowanie\sortowanie\4. Sortowanie przez wstawianie\4. Sortowanie przez wstawianie\bin\Debug\net6.0\4. Sortowanie przez wstawianie.runtimeconfig.json
+C:\Users\USER\Documents\studia\programowanie\sortowanie\4. Sortowanie przez wstawianie\4. Sortowanie przez wstawianie\bin\Debug\net6.0\4. Sortowanie przez wstawianie.dll
+C:\Users\USER\Documents\studia\programowanie\sortowanie\4. Sortowanie przez wstawianie\4. Sortowanie przez wstawianie\bin\Debug\net6.0\4. Sortowanie przez wstawianie.pdb
+C:\Users\USER\Documents\studia\programowanie\sortowanie\4. Sortowanie przez wstawianie\4. Sortowanie przez wstawianie\obj\Debug\net6.0\4. Sortowanie przez wstawianie.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\studia\programowanie\sortowanie\4. Sortowanie przez wstawianie\4. Sortowanie przez wstawianie\obj\Debug\net6.0\4. Sortowanie przez wstawianie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\studia\programowanie\sortowanie\4. Sortowanie przez wstawianie\4. Sortowanie przez wstawianie\obj\Debug\net6.0\4. Sortowanie przez wstawianie.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\studia\programowanie\sortowanie\4. Sortowanie przez wstawianie\4. Sortowanie przez wstawianie\obj\Debug\net6.0\4. Sortowanie przez wstawianie.AssemblyInfo.cs
+C:\Users\USER\Documents\studia\programowanie\sortowanie\4. Sortowanie przez wstawianie\4. Sortowanie przez wstawianie\obj\Debug\net6.0\4. Sortowanie przez wstawianie.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\studia\programowanie\sortowanie\4. Sortowanie przez wstawianie\4. Sortowanie przez wstawianie\obj\Debug\net6.0\4. Sortowanie przez wstawianie.dll
+C:\Users\USER\Documents\studia\programowanie\sortowanie\4. Sortowanie przez wstawianie\4. Sortowanie przez wstawianie\obj\Debug\net6.0\refint\4. Sortowanie przez wstawianie.dll
+C:\Users\USER\Documents\studia\programowanie\sortowanie\4. Sortowanie przez wstawianie\4. Sortowanie przez wstawianie\obj\Debug\net6.0\4. Sortowanie przez wstawianie.pdb
+C:\Users\USER\Documents\studia\programowanie\sortowanie\4. Sortowanie przez wstawianie\4. Sortowanie przez wstawianie\obj\Debug\net6.0\4. Sortowanie przez wstawianie.genruntimeconfig.cache
+C:\Users\USER\Documents\studia\programowanie\sortowanie\4. Sortowanie przez wstawianie\4. Sortowanie przez wstawianie\obj\Debug\net6.0\ref\4. Sortowanie przez wstawianie.dll

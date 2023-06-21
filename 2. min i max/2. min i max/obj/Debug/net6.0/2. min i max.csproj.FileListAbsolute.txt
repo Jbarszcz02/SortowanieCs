@@ -1,0 +1,15 @@
+C:\Users\USER\Documents\studia\programowanie\sortowanie\2. min i max\2. min i max\bin\Debug\net6.0\2. min i max.exe
+C:\Users\USER\Documents\studia\programowanie\sortowanie\2. min i max\2. min i max\bin\Debug\net6.0\2. min i max.deps.json
+C:\Users\USER\Documents\studia\programowanie\sortowanie\2. min i max\2. min i max\bin\Debug\net6.0\2. min i max.runtimeconfig.json
+C:\Users\USER\Documents\studia\programowanie\sortowanie\2. min i max\2. min i max\bin\Debug\net6.0\2. min i max.dll
+C:\Users\USER\Documents\studia\programowanie\sortowanie\2. min i max\2. min i max\bin\Debug\net6.0\2. min i max.pdb
+C:\Users\USER\Documents\studia\programowanie\sortowanie\2. min i max\2. min i max\obj\Debug\net6.0\2. min i max.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\studia\programowanie\sortowanie\2. min i max\2. min i max\obj\Debug\net6.0\2. min i max.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\studia\programowanie\sortowanie\2. min i max\2. min i max\obj\Debug\net6.0\2. min i max.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\studia\programowanie\sortowanie\2. min i max\2. min i max\obj\Debug\net6.0\2. min i max.AssemblyInfo.cs
+C:\Users\USER\Documents\studia\programowanie\sortowanie\2. min i max\2. min i max\obj\Debug\net6.0\2. min i max.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\studia\programowanie\sortowanie\2. min i max\2. min i max\obj\Debug\net6.0\2. min i max.dll
+C:\Users\USER\Documents\studia\programowanie\sortowanie\2. min i max\2. min i max\obj\Debug\net6.0\refint\2. min i max.dll
+C:\Users\USER\Documents\studia\programowanie\sortowanie\2. min i max\2. min i max\obj\Debug\net6.0\2. min i max.pdb
+C:\Users\USER\Documents\studia\programowanie\sortowanie\2. min i max\2. min i max\obj\Debug\net6.0\2. min i max.genruntimeconfig.cache
+C:\Users\USER\Documents\studia\programowanie\sortowanie\2. min i max\2. min i max\obj\Debug\net6.0\ref\2. min i max.dll

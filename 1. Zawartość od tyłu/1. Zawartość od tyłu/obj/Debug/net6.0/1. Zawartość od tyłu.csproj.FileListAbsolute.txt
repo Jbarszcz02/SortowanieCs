@@ -1,0 +1,15 @@
+C:\Users\USER\Documents\studia\programowanie\sortowanie\1. Zawartość od tyłu\1. Zawartość od tyłu\obj\Debug\net6.0\1. Zawartość od tyłu.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\studia\programowanie\sortowanie\1. Zawartość od tyłu\1. Zawartość od tyłu\obj\Debug\net6.0\1. Zawartość od tyłu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\studia\programowanie\sortowanie\1. Zawartość od tyłu\1. Zawartość od tyłu\obj\Debug\net6.0\1. Zawartość od tyłu.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\studia\programowanie\sortowanie\1. Zawartość od tyłu\1. Zawartość od tyłu\obj\Debug\net6.0\1. Zawartość od tyłu.AssemblyInfo.cs
+C:\Users\USER\Documents\studia\programowanie\sortowanie\1. Zawartość od tyłu\1. Zawartość od tyłu\obj\Debug\net6.0\1. Zawartość od tyłu.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\studia\programowanie\sortowanie\1. Zawartość od tyłu\1. Zawartość od tyłu\bin\Debug\net6.0\1. Zawartość od tyłu.exe
+C:\Users\USER\Documents\studia\programowanie\sortowanie\1. Zawartość od tyłu\1. Zawartość od tyłu\bin\Debug\net6.0\1. Zawartość od tyłu.deps.json
+C:\Users\USER\Documents\studia\programowanie\sortowanie\1. Zawartość od tyłu\1. Zawartość od tyłu\bin\Debug\net6.0\1. Zawartość od tyłu.runtimeconfig.json
+C:\Users\USER\Documents\studia\programowanie\sortowanie\1. Zawartość od tyłu\1. Zawartość od tyłu\bin\Debug\net6.0\1. Zawartość od tyłu.dll
+C:\Users\USER\Documents\studia\programowanie\sortowanie\1. Zawartość od tyłu\1. Zawartość od tyłu\bin\Debug\net6.0\1. Zawartość od tyłu.pdb
+C:\Users\USER\Documents\studia\programowanie\sortowanie\1. Zawartość od tyłu\1. Zawartość od tyłu\obj\Debug\net6.0\1. Zawartość od tyłu.dll
+C:\Users\USER\Documents\studia\programowanie\sortowanie\1. Zawartość od tyłu\1. Zawartość od tyłu\obj\Debug\net6.0\refint\1. Zawartość od tyłu.dll
+C:\Users\USER\Documents\studia\programowanie\sortowanie\1. Zawartość od tyłu\1. Zawartość od tyłu\obj\Debug\net6.0\1. Zawartość od tyłu.pdb
+C:\Users\USER\Documents\studia\programowanie\sortowanie\1. Zawartość od tyłu\1. Zawartość od tyłu\obj\Debug\net6.0\1. Zawartość od tyłu.genruntimeconfig.cache
+C:\Users\USER\Documents\studia\programowanie\sortowanie\1. Zawartość od tyłu\1. Zawartość od tyłu\obj\Debug\net6.0\ref\1. Zawartość od tyłu.dll
